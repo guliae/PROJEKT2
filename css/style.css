@@ -391,6 +391,9 @@ textarea {
          url('../fonts/lato-v15-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/lato-v15-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
+
+/*The site layout Start*/
+
 html{
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -1314,3 +1317,4 @@ img{
 
 
 /* Media end */
+/*The site layout is complete*/
